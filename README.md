@@ -15,6 +15,7 @@
 
 ## 🚀 시연 영상
 ![ezgif com-video-to-gif-converted](https://github.com/Sang-Mini/Hike/assets/105893642/b84d7c97-46d2-4a79-824c-7b7c5de0ea1f)
+![ezgif com-video-to-gif-converted](https://github.com/Sang-Mini/Hike/assets/105893642/b84d7c97-46d2-4a79-824c-7b7c5de0ea1f)
 
 
 
