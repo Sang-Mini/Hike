@@ -20,7 +20,7 @@
 ## 🤩 배운 점
 * **모듈화 및 재사용 가능한 컴포넌트**
   * 코드를 여러 파일과 컴포넌트로 나누어 모듈화하는 방법에 대해서 학습했습니다.
-  * 'CustomButtomView', 'CustomListRowView', 'CustomCircleView'와 같이 재사용 가능한 컴포넌트를 작성하여 코드의 가독성을 높이고 유지 보수성을 향상시키는 방법에 대해서 학습했습니다.
+  * 'CustomButtonView', 'CustomListRowView', 'CustomCircleView'와 같이 재사용 가능한 컴포넌트를 작성하여 코드의 가독성을 높이고 유지 보수성을 향상시키는 방법에 대해서 학습했습니다.
 
 * **SwiftUI 애니메이션 및 상호 작용**
   * 버튼 클릭 시 이미지를 변경하는 등의 간단한 애니메이션을 SwiftUI에서 어떻게 구현하는지 배웠습니다.
