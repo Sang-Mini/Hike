@@ -13,6 +13,7 @@
 * SwiftUI
 
 ## 🚀 시연 영상
+![ezgif com-video-to-gif-converted (1)](https://github.com/Sang-Mini/Hike/assets/105893642/2131b06d-7e80-4e27-8534-e4e99535fbbb)
 
 
 ## 🤩 배운 점
