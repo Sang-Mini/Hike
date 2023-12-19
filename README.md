@@ -12,10 +12,7 @@
 #### 사용 기술 및 프레임워크
 * SwiftUI
 
-
 ## 🚀 시연 영상
-![ezgif com-video-to-gif-converted](https://github.com/Sang-Mini/Hike/assets/105893642/b74997f0-466c-415b-9c88-aa20413a32ee)
-
 
 
 ## 🤩 배운 점
